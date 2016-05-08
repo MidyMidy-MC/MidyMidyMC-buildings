@@ -20,6 +20,7 @@
 * 红魔馆 - by: Jimmy
 * 东方全家桶 - by: 図書
 * 彩虹酒店 - by: Leo_song
-* 丰甜神庙 - 丰甜儿
-* KDE Icons - Icenowy
-* Cth铁路桥 - cth451
+* 丰甜神庙 - by: 丰甜儿
+* KDE Icons - by: Icenowy
+* Cth铁路桥 - by: cth451
+* 药丸（帆船） - by: TonyChyi cth451
