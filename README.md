@@ -24,3 +24,4 @@
 * KDE Icons - by: Icenowy
 * Cth铁路桥 - by: cth451
 * 药丸（帆船） - by: TonyChyi cth451
+* TJM的小屋 - by: TJM
